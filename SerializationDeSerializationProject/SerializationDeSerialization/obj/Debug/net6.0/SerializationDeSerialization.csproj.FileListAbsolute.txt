@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\SerializationDeSerialization.exe
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\SerializationDeSerialization.deps.json
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\SerializationDeSerialization.runtimeconfig.json
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\SerializationDeSerialization.dll
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\ref\SerializationDeSerialization.dll
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\bin\Debug\net6.0\SerializationDeSerialization.pdb
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.AssemblyInfo.cs
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.dll
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\ref\SerializationDeSerialization.dll
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.pdb
+C:\Users\hp\source\repos\C#taining\SerializationDeSerialization\SerializationDeSerialization\obj\Debug\net6.0\SerializationDeSerialization.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><EB_bill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><CustId>1001</CustId><CustName>Umang Ahuja</CustName><ProductName>Water Bag</ProductName><NoOfItems>45</NoOfItems><UnitPerCost>2</UnitPerCost></EB_bill>
